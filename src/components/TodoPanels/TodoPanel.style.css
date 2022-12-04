@@ -1,0 +1,16 @@
+.todo_panel {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.todo_panel label:hover{
+    cursor: pointer;
+}
+
+.todo_panel label > div{
+    font-weight: 700;
+    padding-bottom: 3px;
+    text-transform: capitalize;
+
+}

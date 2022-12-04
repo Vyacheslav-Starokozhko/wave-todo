@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App .container{
+  padding: 0 20px;
+}
+
+.App .header_form .todo_panel{
+  margin: 0 auto;
+}
